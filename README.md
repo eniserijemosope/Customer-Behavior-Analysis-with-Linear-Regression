@@ -144,13 +144,22 @@ These coefficients were obtained using a multiple linear regression model. All v
 
 R² score of **0.98** indicates the model explains **98%** of the variability in customer spending — a strong fit.
 
-## Performance Chart
+## Performance Chart (Actual vs Predicted Spending)
 
 <img width="575" height="457" alt="prediction" src="https://github.com/user-attachments/assets/1f25aab3-9a3b-4981-9472-a229b9dc388a" />
 
 
+This chart shows how well my model did.
+
+* The **x-axis** is the real spending values (actual values from the data).
+* The **y-axis** is what my model predicted.
+* Each dot is one prediction.
+* If all the dots were perfectly on the diagonal line, the model would be 100% accurate.
+
+As you can see, most of the points are really close to that line which means the model did a **pretty good job** at predicting spending!
+
 ## Contributing
-Contributions are welcome! Please fork the repository and create a pull request with your improvements.
+Contributions are very welcome! Please fork the repository and create a pull request with your improvements.
 
 ## Contact
-For questions or feedback, please open an issue in the repository.
+For questions or feedback, please open an issue in the repository or send an email to niserijemosope@gmail.com.
