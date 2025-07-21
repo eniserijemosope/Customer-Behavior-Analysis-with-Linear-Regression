@@ -7,7 +7,7 @@ This notebook analyzes customer data from a fictional e-commerce company to pred
 - Identify which customer features correlate most strongly with spending
 - Help the company decide whether to invest more in website or mobile app improvements
 
-## 📚 Table of Contents
+## Table of Contents
 
 1. [Project Overview](#project-overview)
 2. [Technologies Used](#technologies-used)
