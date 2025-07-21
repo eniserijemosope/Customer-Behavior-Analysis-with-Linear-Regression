@@ -7,6 +7,30 @@ This notebook analyzes customer data from a fictional e-commerce company to pred
 - Identify which customer features correlate most strongly with spending
 - Help the company decide whether to invest more in website or mobile app improvements
 
+## 📚 Table of Contents
+
+1. [Project Overview](#project-overview)
+2. [Technologies Used](#technologies-used)
+3. [Dataset](#dataset)
+4. [Key Steps](#key-steps)
+
+   * [Data Loading & Initial Exploration](#data-loading--initial-exploration)
+   * [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+   * [Data Preparation](#data-preparation)
+   * [Model Building](#model-building)
+   * [Evaluation](#evaluation)
+   * [Insights & Recommendations](#insights--recommendations)
+5. [Business Applications](#business-applications)
+6. [Prerequisites](#prerequisites)
+7. [Installation](#installation)
+8. [Key Findings](#key-findings)
+9. [Model Summary](#model-summary)
+
+   * [Coefficient Interpretation](#coefficient-interpretation)
+   * [Model Evaluation](#model-evaluation)
+10. [Contributing](#-contributing)
+11. [Contact](#-contact)
+
 ## Technologies Used
 
 - **Python** (Primary programming language)
