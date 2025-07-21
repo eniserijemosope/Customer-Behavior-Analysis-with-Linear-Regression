@@ -144,6 +144,10 @@ These coefficients were obtained using a multiple linear regression model. All v
 
 R² score of **0.98** indicates the model explains **98%** of the variability in customer spending — a strong fit.
 
+##Performance Chart
+<img width="575" height="457" alt="prediction" src="https://github.com/user-attachments/assets/1f25aab3-9a3b-4981-9472-a229b9dc388a" />
+
+
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your improvements.
 
