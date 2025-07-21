@@ -1,13 +1,13 @@
 # Customer Spending Prediction with Linear Regression
 
-## 📌 Project Overview
+## Project Overview
 
 This notebook analyzes customer data from a fictional e-commerce company to predict annual spending patterns. The project uses exploratory data analysis (EDA) and a linear regression model to:
 
 - Identify which customer features correlate most strongly with spending
 - Help the company decide whether to invest more in website or mobile app improvements
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python** (Primary programming language)
 - **Pandas** (Data manipulation and analysis)
@@ -18,7 +18,7 @@ This notebook analyzes customer data from a fictional e-commerce company to pred
   - `LinearRegression` (Model implementation)
   - Evaluation metrics (`mean_absolute_error`, `mean_squared_error`, `r2_score`)
 
-## 📂 Dataset
+## Dataset
 
 The dataset (`Ecommerce Customers.csv`) contains information about 500 customers with the following features:
 
@@ -31,33 +31,33 @@ The dataset (`Ecommerce Customers.csv`) contains information about 500 customers
 - `Length of Membership`
 - `Yearly Amount Spent` (Target variable)
 
-## 🔍 Key Steps
+## Key Steps
 
 1. **Data Loading & Initial Exploration**
-   - Import and examine the dataset structure
-   - Check for missing values and data types
+   - Imported and examined the dataset structure
+   - Checked for missing values and data types
 
 2. **Exploratory Data Analysis (EDA)**
-   - Visualize relationships between features
-   - Identify correlations with spending
+   - Visualized relationships between features
+   - Identified correlations with spending
 
 3. **Data Preparation**
-   - Select relevant features
+   - Selected relevant features
    - Split data into training and test sets
 
 4. **Model Building**
-   - Implement Linear Regression
-   - Train the model on customer data
+   - Implemented Linear Regression
+   - Trained the model on customer data
 
 5. **Evaluation**
-   - Assess model performance using metrics:
+   - Assessed model performance using metrics:
      - Mean Absolute Error (MAE)
      - Mean Squared Error (MSE)
      - R-squared (R²) score
 
 6. **Insights & Recommendations**
-   - Determine which factors most influence spending
-   - Provide actionable business recommendations
+   - Determined which factors most influence spending
+   - Provided actionable business recommendations
 
 ##  Business Applications
 
@@ -78,7 +78,7 @@ This analysis helps e-commerce businesses:
 2. Install required packages: `pip install pandas numpy matplotlib seaborn scikit-learn`
 3. Open the notebook in Jupyter: `jupyter notebook Consumer_Spend_Prediction_ML_Model.ipynb`
 
-## 📈 Key Findings
+## Key Findings
 
 Right now, the mobile app is linked to more customer spending than the website. But before deciding what to focus on, it’s a good idea to dig a bit deeper.
 
