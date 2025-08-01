@@ -162,4 +162,4 @@ As you can see, most of the points are really close to that line which means the
 Contributions are very welcome! Please fork the repository and create a pull request with your improvements.
 
 ## Contact
-For questions or feedback, please open an issue in the repository or send an email to niserijemosope@gmail.com.
+For questions or feedback, please open an issue in the repository or send an email to eniserijemosope@gmail.com.
